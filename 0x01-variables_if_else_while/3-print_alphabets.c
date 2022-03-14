@@ -1,7 +1,6 @@
 #include <stdio.h>
 
 /**
-*
 * main - Prints the 26 aplhabets in lowercase and uppercase
 *
 * Return: 0 as Success
