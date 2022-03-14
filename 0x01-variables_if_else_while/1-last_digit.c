@@ -3,12 +3,9 @@
 #include <stdio.h>
 
 /**
+ * main - Check if a number is greater than 5, is less than 6, or is 0
  *
- ** main - Check if a number is greater than 5, is less than 6, or is 0
- *
- **
- *
- ** Return: 0 as success
+ * Return: 0 as success
  */
 int main(void)
 {
