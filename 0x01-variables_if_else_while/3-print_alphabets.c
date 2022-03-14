@@ -1,11 +1,11 @@
 #include <stdio.h>
 
 /**
- *
- * main - Prints the 26 aplhabets in lowercase and uppercase
- *
- * Return: 0 as Success
- */
+*
+* main - Prints the 26 aplhabets in lowercase and uppercase
+*
+* Return: 0 as Success
+*/
 int main(void)
 {
 	char lowerUpper[52] = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ";
